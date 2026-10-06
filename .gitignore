@@ -2,5 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-data/silver/
-data/gold/
+data/silver/ativos.parquet
+data/silver/vulnerabilidades.parquet
+data/gold/vulnerabilidades.csv
