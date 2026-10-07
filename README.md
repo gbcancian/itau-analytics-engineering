@@ -24,4 +24,5 @@ O processo de ETL e Análise Exploratória está dividido em três *Jupyter Note
 Além dos *notebooks* de engenharia, este *case* inclui:
 *   **Dashboard Executivo (Looker Studio):** Painel interativo para monitorização contínua do *backlog* de segurança. Link: https://datastudio.google.com/s/siTA9kvf4Gk
 *   **Apresentação Executiva (PDF):** Relatório focado na priorização do risco e recomendações estratégicas para a direção.
-Todos esses documentos estão salvos dentro d pasta docs, para ter acesso aos filtros do dashboard abra pelo link.
+
+Todos esses documentos estão salvos dentro da pasta docs, para ter acesso aos filtros do dashboard abra pelo link.
